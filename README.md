@@ -1,1 +1,1 @@
-# Arrays-solution-leetcode
+#-leetcode-solution
